@@ -1,0 +1,68 @@
+body {
+    background-color: #eee;
+}
+
+body a{
+    text-decoration: none;
+}
+
+div#page {
+    max-width:750px;
+    background-color: #fff;
+    margin: 10px auto;
+    padding: 5px 4%;
+    font-family: sans-serif;
+    box-shadow: 0px 1px 4px -2px #0000006b;
+}
+
+div#qumessage {
+    margin: 35px 0px;
+}
+
+div#quform {
+    min-height: 200px;
+}
+
+div#scores_title {
+    margin-top: 60px;
+}
+
+div#quscores {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+td.narrow {
+    max-width: 44px;
+    font-size: 15px;
+}
+
+#qutable td {
+    padding: 1px 4px;
+} 
+
+table#qutable {
+    border-collapse: collapse;
+}
+
+tr.alternate1 {
+    background-color: #eff1f6;
+}
+
+table#scorestable {
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+
+
+table#scorestable td, table#scorestable th {
+    padding: 1px 4px;
+    border: 1px solid #a3a3a3;
+}
+
+
+div#footer {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 15px;
+}

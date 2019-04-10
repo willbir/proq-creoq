@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Scoring new</title>
+  <meta name="description" content="Questionnaire scoring">
+  <meta name="author" content="William Birtchnell">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div id="page">
+    <h1> Questionnaire Scoring</h1>
+    <p> Select a questionnaire type to score </p>
+    <form name="form1">
+      <select name="jumpmenu" id="selectQu" onChange="jumpto()">
+        <option>Select...</option>
+        <option value="qu_proq2">PROQ2</option>
+        <option value="qu_proq3">PROQ3</option>
+        <option value="qu_creoq3_ms">CREOQ3 MS</option>
+        <option value="qu_creoq3_mp">CREOQ3 MP</option>
+        <option value="qu_creoq3_ws">CREOQ3 WS</option>
+        <option value="qu_creoq3_wp">CREOQ3 WP</option>
+      </select>
+    </form>
+    <div id="qumessage"></div>
+    <div id="quform"> </div>
+    <div id="scores_title">
+      <h1>Scores</h1>
+    </div>
+    <div id="quscores">
+      <table id="scorestable">
+        <tbody>
+          <tr>
+            <th>UN</th>
+            <th>UC</th>
+            <th>NC</th>
+            <th>LC</th>
+            <th>LN</th>
+            <th>LD</th>
+            <th>ND</th>
+            <th>UD</th>
+            <th>POS</th>
+            <th>NA</th>
+          </tr>
+          <tr>
+            <td id="quscore_UN">0</td>
+            <td id="quscore_UC">0</td>
+            <td id="quscore_NC">0</td>
+            <td id="quscore_LC">0</td>
+            <td id="quscore_LN">0</td>
+            <td id="quscore_LD">0</td>
+            <td id="quscore_ND">0</td>
+            <td id="quscore_UD">0</td>
+            <td id="quscore_POS">0</td>
+            <td id="quscore_NA">-</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div id="quchart">
+    </div>
+    <div id="output">&nbsp;</div>
+    <div id="footer">Code &copy; W.Birtchnell released under the General Public License v3.0</div>
+  </div>
+
+  <script src="scoring.js"></script>
+</body>
+
+</html>
