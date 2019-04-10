@@ -2,7 +2,7 @@
 
 PROQ and CREOQ are measures of relating and interrelating developed by Dr John Birtchnell.
 
-To use the software first download it as a Zip file, extract the files and then open index.html in any modern web browser.
+To use the software first download it as a Zip file, extract the contents and then open index.html in any modern web browser.
 
 ### About the measures
 
