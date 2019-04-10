@@ -1,12 +1,10 @@
-# proq-creoq
-Simple scoring software for PROQ2, PROQ3 and CREOQ3 questionnaires.
+## Simple scoring software for PROQ2, PROQ3 and CREOQ3 questionnaires.
 
-
-The PROQ and CREOQ are measures of relating and interrelating developed by Dr John Birtchnell.
+PROQ and CREOQ are measures of relating and interrelating developed by Dr John Birtchnell.
 
 To use the software first download it as a Zip file, extract the files and then open index.html in any modern web browser.
 
-## About the measures
+### About the measures
 
 ##### The Person's Relating to Others Questionnaire (PROQ)
 
