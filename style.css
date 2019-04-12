@@ -83,13 +83,13 @@ div#footer {
 svg polygon.crtgrid {
     fill:none;
     stroke:#444;
-    stroke-width:1
+    stroke-width:1;
 }
 
 svg polygon.crtscores {
     fill:#c4d7ff;
     stroke:#444;
-    stroke-width:1
+    stroke-width:1;
 }
 
 svg text.crtlabels {
