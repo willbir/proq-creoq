@@ -13,17 +13,16 @@
   <div id="page">
     <h1> Questionnaire Scoring</h1>
     <p> Select a questionnaire type to score </p>
-    <form name="form1">
-      <select name="jumpmenu" id="selectQu" onChange="jumpto()">
-        <option>Select...</option>
-        <option value="qu_proq2">PROQ2</option>
-        <option value="qu_proq3">PROQ3</option>
-        <option value="qu_creoq3_ms">CREOQ3 MS</option>
-        <option value="qu_creoq3_mp">CREOQ3 MP</option>
-        <option value="qu_creoq3_ws">CREOQ3 WS</option>
-        <option value="qu_creoq3_wp">CREOQ3 WP</option>
-      </select>
-    </form>
+    <select name="jumpmenu" id="selectQu" onChange="jumpto()">
+      <option>Select...</option>
+      <option value="qu_proq2">PROQ2</option>
+      <option value="qu_proq3">PROQ3</option>
+      <option value="qu_creoq3_ms">CREOQ3 MS</option>
+      <option value="qu_creoq3_mp">CREOQ3 MP</option>
+      <option value="qu_creoq3_ws">CREOQ3 WS</option>
+      <option value="qu_creoq3_wp">CREOQ3 WP</option>
+    </select>
+    <button class="cbutton" onclick="quclear()">Clear</button>
     <div id="qumessage"></div>
     <div id="quform"> </div>
     <div id="scores_title">
@@ -60,6 +59,10 @@
       </table>
     </div>
     <div id="quchart">
+      <svg id="chartsvg" width="10" height="10">
+        <g id="chartgroup"></g>
+        Sorry, your browser does not support SVG
+      </svg>
     </div>
     <div id="output">&nbsp;</div>
     <div id="footer">Code &copy; W.Birtchnell released under the General Public License v3.0</div>

@@ -8,6 +8,7 @@ var qu_creoq3_mp = "[{ qnum:1 , qtext:'Likes to manage me ' , qscore:'UN'},{ qnu
 var qu_creoq3_ws = "[{ qnum:1 , qtext:'I am inclined to organize his life for him ' , qscore:'UC'},{ qnum:2 , qtext:'I let him trample on me' , qscore:'LD'},{ qnum:3 , qtext:'I cannot convince myself that he really cares about me' , qscore:'LC'},{ qnum:4 , qtext:'I do not communicate very much with him' , qscore:'ND'},{ qnum:5 , qtext:'I prefer it when I am the one who makes the decisions' , qscore:'UN'},{ qnum:6 , qtext:'I find it quite pleasant sometimes to spend time away from him' , qscore:'POS'},{ qnum:7 , qtext:'I prefer him to make the decisions' , qscore:'LN'},{ qnum:8 , qtext:'I am not happy about him going out with other people' , qscore:'NC'},{ qnum:9 , qtext:'I am willing to let him take the lead' , qscore:'POS'},{ qnum:10 , qtext:'I prefer to be the one in charge' , qscore:'UN'},{ qnum:11 , qtext:'I consider him to be more often right than I am' , qscore:'LN'},{ qnum:12 , qtext:'I find it easy to be caring towards him' , qscore:'POS'},{ qnum:13 , qtext:'I easily give in to him' , qscore:'LD'},{ qnum:14 , qtext:'It upsets me a lot when he criticizes me' , qscore:'LC'},{ qnum:15 , qtext:'I expect him to fit in with me, rather than the other way around' , qscore:'UD'},{ qnum:16 , qtext:'I find that I make a lot of decisions for him' , qscore:'UC'},{ qnum:17 , qtext:'I tend to escape from him into a world of my own' , qscore:'ND'},{ qnum:18 , qtext:'I am able to take charge of things when he needs me to' , qscore:'POS'},{ qnum:19 , qtext:'I hold on to him too much' , qscore:'NC'},{ qnum:20 , qtext:'I consider his judgment to be better than mine' , qscore:'LN'},{ qnum:21 , qtext:'I feel that he needs looking after by me' , qscore:'UC'},{ qnum:22 , qtext:'He is able to dominate me' , qscore:'LD'},{ qnum:23 , qtext:'I like to manage things for us' , qscore:'UN'},{ qnum:24 , qtext:'There are times when I am happy to do what he tells me' , qscore:'POS'},{ qnum:25 , qtext:'I am afraid he is losing interest in me' , qscore:'LC'},{ qnum:26 , qtext:'It annoys me when he does not do what I expect of him' , qscore:'UD'},{ qnum:27 , qtext:'I seem to know what is best for him' , qscore:'UC'},{ qnum:28 , qtext:'When he gets too close to me, it makes me feel uneasy' , qscore:'ND'},{ qnum:29 , qtext:'I can never be sure that he approves of me' , qscore:'LC'},{ qnum:30 , qtext:'I can be quite tough with him' , qscore:'UD'},{ qnum:31 , qtext:'I have a dread of being rejected by him ' , qscore:'LC'},{ qnum:32 , qtext:'I like to be the one in control' , qscore:'UN'},{ qnum:33 , qtext:'I am not inclined to spend much time with him' , qscore:'ND'},{ qnum:34 , qtext:'I feel uneasy when he goes out without me' , qscore:'NC'},{ qnum:35 , qtext:'When I tell him what to do, I expect him to do it' , qscore:'UD'},{ qnum:36 , qtext:'I feel warm and affectionate towards him' , qscore:'POS'},{ qnum:37 , qtext:'I like to make plans for both of us' , qscore:'UN'},{ qnum:38 , qtext:'I try not to show him my feelings' , qscore:'ND'},{ qnum:39 , qtext:'I find it necessary to put him in his place' , qscore:'UD'},{ qnum:40 , qtext:'I rely on him more than I should' , qscore:'LN'},{ qnum:41 , qtext:'I am not sure that he can look after himself' , qscore:'UC'},{ qnum:42 , qtext:'I feel able to let him comfort me' , qscore:'POS'},{ qnum:43 , qtext:'I tend to be possessive towards him' , qscore:'NC'},{ qnum:44 , qtext:'I have a tendency to look up to him' , qscore:'LN'},{ qnum:45 , qtext:'I go along with whatever he says' , qscore:'LD'},{ qnum:46 , qtext:'I have difficulty letting go of him' , qscore:'NC'},{ qnum:47 , qtext:'I allow him to take control' , qscore:'LD'},{ qnum:48 , qtext:'I make sound judgements about him' , qscore:'POS'}]";
 var qu_creoq3_wp = "[{ qnum:1 , qtext:'Likes to manage me ' , qscore:'UN'},{ qnum:2 , qtext:'Tries to stay too close to me' , qscore:'NC'},{ qnum:3 , qtext:'Is not very good at making up his own mind' , qscore:'LN'},{ qnum:4 , qtext:'Does not easily communicate with me' , qscore:'ND'},{ qnum:5 , qtext:'Wants to fuss over me' , qscore:'UC'},{ qnum:6 , qtext:'Is someone I look up to with respect' , qscore:'POS'},{ qnum:7 , qtext:'Does not easily show me his feelings' , qscore:'ND'},{ qnum:8 , qtext:'Is quite content to spent time away from me' , qscore:'POS'},{ qnum:9 , qtext:'Tries to dominate me' , qscore:'UD'},{ qnum:10 , qtext:'Has a dread of being rejected by me' , qscore:'LC'},{ qnum:11 , qtext:'Likes to be the one in charge' , qscore:'UN'},{ qnum:12 , qtext:'Will put up with a lot from me rather than complain' , qscore:'POS'},{ qnum:13 , qtext:'Does not like me to go out without him' , qscore:'NC'},{ qnum:14 , qtext:'Can never be sure that I approve of him' , qscore:'LC'},{ qnum:15 , qtext:'Makes hurtful remarks to me' , qscore:'UD'},{ qnum:16 , qtext:'Goes along with whatever I say' , qscore:'LD'},{ qnum:17 , qtext:'Tends to think that he is not worthy of me' , qscore:'LN'},{ qnum:18 , qtext:'Is warm and loving' , qscore:'POS'},{ qnum:19 , qtext:'Prefers to be the decision maker' , qscore:'UN'},{ qnum:20 , qtext:'Is not very good at solving his own problems' , qscore:'LN'},{ qnum:21 , qtext:'Complains that I do not pay him enough attention' , qscore:'LC'},{ qnum:22 , qtext:'Seems to feel that I need to be looked after by him' , qscore:'UC'},{ qnum:23 , qtext:'Does not let me get close to him' , qscore:'ND'},{ qnum:24 , qtext:'Is able to let me comfort him' , qscore:'POS'},{ qnum:25 , qtext:'Is inclined to make plans for us both' , qscore:'UN'},{ qnum:26 , qtext:'Is easily influenced by me' , qscore:'LD'},{ qnum:27 , qtext:'Tries to mother me' , qscore:'UC'},{ qnum:28 , qtext:'Constantly reminds me of my failings' , qscore:'UD'},{ qnum:29 , qtext:'Believes that I do not care enough about him' , qscore:'LC'},{ qnum:30 , qtext:'Calms me when I am in a state' , qscore:'POS'},{ qnum:31 , qtext:'Invites me to dominate him' , qscore:'LD'},{ qnum:32 , qtext:'Dislikes spending time on his own' , qscore:'NC'},{ qnum:33 , qtext:'Tends to take control of things' , qscore:'UN'},{ qnum:34 , qtext:'Fears that I may be losing interest in him' , qscore:'LC'},{ qnum:35 , qtext:'Tries to put me in my place' , qscore:'UD'},{ qnum:36 , qtext:'Can admit that he may be wrong' , qscore:'POS'},{ qnum:37 , qtext:'Keeps me at a distance' , qscore:'ND'},{ qnum:38 , qtext:'Does not seem to appreciate that I am capable of looking after myself' , qscore:'UC'},{ qnum:39 , qtext:'Expects me to do everything he says' , qscore:'UD'},{ qnum:40 , qtext:'Easily gives in to me' , qscore:'LD'},{ qnum:41 , qtext:'Does not let me have time to myself' , qscore:'NC'},{ qnum:42 , qtext:'Treats me like I were a child' , qscore:'UC'},{ qnum:43 , qtext:'Does not seem to trust his own judgement' , qscore:'LN'},{ qnum:44 , qtext:'Does not let me know what he is thinking' , qscore:'ND'},{ qnum:45 , qtext:'Lets me trample over him' , qscore:'LD'},{ qnum:46 , qtext:'Finds it hard to allow me to have time away from him' , qscore:'NC'},{ qnum:47 , qtext:'Seems to want me to make all the decisions for him' , qscore:'LN'},{ qnum:48 , qtext:'Is able to take charge of things when I need him to' , qscore:'POS'}]";
 
+
 function jumpto() {
 	var x = document.getElementById("selectQu").value;
 	document.getElementById("qumessage").innerHTML = "<h4>Instructions</h4>";
@@ -49,6 +50,16 @@ function jumpto() {
 	calcscores();
 }
 
+function quclear() {
+	var qubuttons = document.getElementsByTagName("input");
+	for (var i = 0; i < qubuttons.length; i++) {
+		if (qubuttons[i].checked) {
+			qubuttons[i].checked = false;
+		}
+	}
+	calcscores();
+}
+
 function calcscores() {
 	var quscores = { UN: 0, UC: 0, NC: 0, LC: 0, LN: 0, LD: 0, ND: 0, UD: 0, POS: 0, NA: 0 };
 	var scorelookup = { 0: "UN", 1: "UC", 2: "NC", 3: "LC", 4: "LN", 5: "LD", 6: "ND", 7: "UD" };
@@ -64,36 +75,43 @@ function calcscores() {
 	}
 	quscores.NA = qurows.length - c;
 	for (var key in quscores) {
-
 		document.getElementById("quscore_" + key).innerHTML = quscores[key];
 	}
+
+	//calc chart
 	var chartsize = 400;
 	var radius = chartsize / 2.2;
 	var middle = chartsize / 2;
-
-	//calc chart
 	var qusvg = "";
 	var maxscore = 15;
+
+	document.getElementById("chartsvg").setAttribute("width", chartsize);
+	document.getElementById("chartsvg").setAttribute("height", chartsize);
+	document.getElementById("chartsvg").setAttribute("viewBox", `-200 -200 400 400`);
+
 	if (document.getElementsByClassName("qurow").length > 48) { maxscore = 30; }
+
 	for (var p = 0; p < 8; p++) {
 		var angle0 = Math.PI * 2 * p / 8;
 		var angle1 = angle0 - (Math.PI / 8);
 		var angle2 = angle0 + (Math.PI / 8);
-		var x1 = middle + Math.sin(angle1) * radius;
-		var y1 = middle - Math.cos(angle1) * radius;
-		var x2 = middle + Math.sin(angle2) * radius;
-		var y2 = middle - Math.cos(angle2) * radius;
-		var x3 = middle + Math.sin(angle1) * radius * quscores[scorelookup[p]] / maxscore;
-		var y3 = middle - Math.cos(angle1) * radius * quscores[scorelookup[p]] / maxscore;
-		var x4 = middle + Math.sin(angle2) * radius * quscores[scorelookup[p]] / maxscore;
-		var y4 = middle - Math.cos(angle2) * radius * quscores[scorelookup[p]] / maxscore;
-		var xt = middle + Math.sin(angle0) * radius;
-		var yt = middle - Math.cos(angle0) * radius;
-		qusvg += "<polygon points='" + middle + "," + middle + " " + x1 + "," + y1 + " " + x2 + "," + y2 + "' style='fill:none;stroke:#444;stroke-width:1' />";
-		qusvg += "<polygon points='" + middle + "," + middle + " " + x3 + "," + y3 + " " + x4 + "," + y4 + "' style='fill:#a7c4ff;stroke:#444;stroke-width:1' />";
-		qusvg += "<text text-anchor='middle' dominant-baseline='middle' fill='#000' font-size='10' font-family='Verdana' x='" + xt + "' y='" + yt + "'>" + scorelookup[p] + "</text>";
+		var x1 = Math.sin(angle1) * radius;
+		var y1 = - Math.cos(angle1) * radius;
+		var x2 = Math.sin(angle2) * radius;
+		var y2 = - Math.cos(angle2) * radius;
+		var x3 = Math.sin(angle1) * radius * quscores[scorelookup[p]] / maxscore;
+		var y3 = - Math.cos(angle1) * radius * quscores[scorelookup[p]] / maxscore;
+		var x4 = Math.sin(angle2) * radius * quscores[scorelookup[p]] / maxscore;
+		var y4 = - Math.cos(angle2) * radius * quscores[scorelookup[p]] / maxscore;
+		var xt = Math.sin(angle0) * radius;
+		var yt = 5 - Math.cos(angle0) * radius;
+
+		qusvg += `<polygon class='crtgrid' points='0,0 ${x1},${y1} ${x2},${y2}'/>`;
+		qusvg += `<polygon class='crtscores' points='0,0 ${x3},${y3} ${x4},${y4}'/>`;
+		qusvg += `<text class='crtlabels' x='${xt}' y='${yt}'>${scorelookup[p]}</text>`;
 	}
-	document.getElementById("quchart").innerHTML = "<svg height='" + chartsize + "' width='" + chartsize + "'>" + qusvg + "Sorry, your browser does not support SVG</svg>";
+	document.getElementById("chartgroup").innerHTML = qusvg;
 }
+
 
 
