@@ -34,7 +34,7 @@ On the basis of an exploratory factor analysis, a shorter version of the CREOQ, 
 
 
 
-### Manual scoring instructions.
+## Manual scoring instructions.
 To score questionnaires manually rather than using the software provided the following instructions may be used.
  
 ##### PROQ2
@@ -49,120 +49,79 @@ Rarely True = 0 Points
 The table below shows the eight negative and eight positive scores.
 Listed next to each score are the question numbers of each question that contributes to that score, there are 10 questions that contribute to each negative score giving a total of between 0 and 30 points for each score, and 2 questions that contribute to each positive score giving a total of between 0 and 6 points each.
 
-UN negative: 09, 19, 30, 40, 46, 49, 60, 69, 86, 91. positive: 06, 84.
-
-UC negative: 07, 16, 28, 37, 44, 57, 70, 74, 77, 85. positive: 24, 61.
-
-NC negative: 05, 15, 21, 29, 33, 35, 41, 48, 64, 79. positive: 17, 52.
-
-LC negative: 02, 10, 12, 25, 34, 50, 72, 78, 80, 83. positive: 66, 95.
-
-LN negative: 08, 20, 27, 36, 39, 51, 62, 65, 73, 82. positive: 11, 68.
-
-LD negative: 03, 13, 18, 22, 42, 56, 71, 87, 89, 96. positive: 31, 45.
-
-ND negative: 01, 23, 47, 53, 55, 58, 63, 75, 92, 94. positive: 38, 88.
-
-UD negative: 14, 26, 32, 43, 54, 59, 67, 81, 90, 93. positive: 04, 76.
+* UN negative: 09, 19, 30, 40, 46, 49, 60, 69, 86, 91. positive: 06, 84.
+* UC negative: 07, 16, 28, 37, 44, 57, 70, 74, 77, 85. positive: 24, 61.
+* NC negative: 05, 15, 21, 29, 33, 35, 41, 48, 64, 79. positive: 17, 52.
+* LC negative: 02, 10, 12, 25, 34, 50, 72, 78, 80, 83. positive: 66, 95.
+* LN negative: 08, 20, 27, 36, 39, 51, 62, 65, 73, 82. positive: 11, 68.
+* LD negative: 03, 13, 18, 22, 42, 56, 71, 87, 89, 96. positive: 31, 45.
+* ND negative: 01, 23, 47, 53, 55, 58, 63, 75, 92, 94. positive: 38, 88.
+* UD negative: 14, 26, 32, 43, 54, 59, 67, 81, 90, 93. positive: 04, 76.
 
 ##### PROQ2a & PROQ3
 
 Follow the same procedure as for PROQ2, giving eight negative scores totaling between 0 and 15 points, and eight positive scores totaling between 0 and 3 points.
 
-UN negative: 09, 19, 27, 35, 38. positive: 05
-
-UC negative: 17, 24, 33, 39, 42. positive: 13
-
-NC negative: 04, 11, 18, 22, 43. positive: 30
-
-LC negative: 06, 14, 28, 41, 44. positive: 36
-
-LN negative: 10, 16, 23, 25, 29. positive: 37
-
-LD negative: 02, 32, 40, 45, 48. positive: 20
-
-ND negative: 01, 08, 12, 31, 47. positive: 46
-
-UD negative: 07, 15, 21, 26, 34. positive: 03
+* UN negative: 09, 19, 27, 35, 38. positive: 05
+* UC negative: 17, 24, 33, 39, 42. positive: 13
+* NC negative: 04, 11, 18, 22, 43. positive: 30
+* LC negative: 06, 14, 28, 41, 44. positive: 36
+* LN negative: 10, 16, 23, 25, 29. positive: 37
+* LD negative: 02, 32, 40, 45, 48. positive: 20
+* ND negative: 01, 08, 12, 31, 47. positive: 46
+* UD negative: 07, 15, 21, 26, 34. positive: 03
 
 ##### CREOQ
 
 Follow the same procedure as for PROQ2, giving for each questionnaire eight negative scores totalling between 0 and 30 points, and eight positive scores totalling between 0 and 6 points.
 
 ##### MS/WS
-UN negative: 05, 12, 15, 40, 45, 49, 53, 56, 69, 88. positive: 35, 71.
 
-UC negative: 04, 10, 31, 36, 42, 61, 75, 81, 89, 92. positive: 78, 84.
-
-NC negative: 02, 28, 47, 50, 54, 64, 66, 68, 87, 96. positive: 06, 19.
-
-LC negative: 07, 22, 32, 37, 51, 59, 72, 76, 83, 93. positive: 21, 33.
-
-LN negative: 09, 23, 25, 29, 34, 38, 44, 46, 55, 65. positive: 60, 79.
-
-LD negative: 01, 13, 17, 20, 39, 48, 52, 67, 74, 85. positive: 90, 94.
-
-ND negative: 08, 11, 16, 24, 30, 43, 57, 62, 70, 73. positive: 14, 27.
-
-UD negative: 03, 18, 26, 41, 58, 63, 77, 80, 82, 91. positive: 86, 95.
+* UN negative: 05, 12, 15, 40, 45, 49, 53, 56, 69, 88. positive: 35, 71.
+* UC negative: 04, 10, 31, 36, 42, 61, 75, 81, 89, 92. positive: 78, 84.
+* NC negative: 02, 28, 47, 50, 54, 64, 66, 68, 87, 96. positive: 06, 19.
+* LC negative: 07, 22, 32, 37, 51, 59, 72, 76, 83, 93. positive: 21, 33.
+* LN negative: 09, 23, 25, 29, 34, 38, 44, 46, 55, 65. positive: 60, 79.
+* LD negative: 01, 13, 17, 20, 39, 48, 52, 67, 74, 85. positive: 90, 94.
+* ND negative: 08, 11, 16, 24, 30, 43, 57, 62, 70, 73. positive: 14, 27.
+* UD negative: 03, 18, 26, 41, 58, 63, 77, 80, 82, 91. positive: 86, 95.
 
 ##### MP/WP
-UN negative: 09, 19, 30, 33, 43, 52, 63, 69, 73, 77. positive: 79, 84.
 
-UC negative: 03, 07, 14, 22, 26, 60, 80, 85, 90, 92. positive: 06, 15.
-
-NC negative: 18, 24, 37, 47, 58, 74, 81, 88, 89, 94. positive: 10, 40.
-
-LC negative: 11, 16, 29, 31, 44, 56, 71, 78, 83, 96. positive: 34, 75,
-
-LN negative: 02, 36, 41, 50, 53, 59, 61, 66. 67, 95. positive: 27, 46,
-
-LD negative: 05, 13, 17, 20, 25, 35, 39, 49, 64, 93. positive: 45, 82.
-
-ND negative: 01, 08, 23, 32, 42, 51, 68, 76, 86, 87. positive: 55, 62.
-
-UD negative: 04, 12, 28, 38, 48, 54, 57, 65, 72, 91. positive: 21, 70.
+* UN negative: 09, 19, 30, 33, 43, 52, 63, 69, 73, 77. positive: 79, 84.
+* UC negative: 03, 07, 14, 22, 26, 60, 80, 85, 90, 92. positive: 06, 15.
+* NC negative: 18, 24, 37, 47, 58, 74, 81, 88, 89, 94. positive: 10, 40.
+* LC negative: 11, 16, 29, 31, 44, 56, 71, 78, 83, 96. positive: 34, 75,
+* LN negative: 02, 36, 41, 50, 53, 59, 61, 66. 67, 95. positive: 27, 46,
+* LD negative: 05, 13, 17, 20, 25, 35, 39, 49, 64, 93. positive: 45, 82.
+* ND negative: 01, 08, 23, 32, 42, 51, 68, 76, 86, 87. positive: 55, 62.
+* UD negative: 04, 12, 28, 38, 48, 54, 57, 65, 72, 91. positive: 21, 70.
 
 ##### CREOQ3
 
 ##### MS/WS
-UN negative: 5, 10, 23, 32, 37
 
-UC negative: 1, 16, 21, 27, 41
-
-NC negative: 8, 19, 34, 43, 46
-
-LC negative: 3, 14, 25, 29, 31
-
-LN negative: 7, 11, 20, 40, 44
-
-LD negative: 2, 13, 22, 45, 47
-
-ND negative: 4, 17, 28, 33, 38
-
-UD negative: 15, 26, 30, 35, 39
-
-Positive: 6, 9, 12, 18, 24, 36, 42, 48
+* UN negative: 5, 10, 23, 32, 37
+* UC negative: 1, 16, 21, 27, 41
+* NC negative: 8, 19, 34, 43, 46
+* LC negative: 3, 14, 25, 29, 31
+* LN negative: 7, 11, 20, 40, 44
+* LD negative: 2, 13, 22, 45, 47
+* ND negative: 4, 17, 28, 33, 38
+* UD negative: 15, 26, 30, 35, 39
+* Positive: 6, 9, 12, 18, 24, 36, 42, 48
 
 ##### MP/WP
 
-UN negative: 1, 11, 19, 25, 33
-
-UC negative: 5, 22, 27, 38, 42
-
-NC negative: 2, 13, 32, 41, 46
-
-LC negative: 10, 14, 21, 29, 34
-
-LN negative: 3, 17, 20, 43, 47
-
-LD negative: 16, 26, 31, 40, 45
-
-ND negative: 4, 7, 23, 37, 44
-
-UD negative: 9, 15, 28, 35, 39
-
-Positive: 6, 8, 12, 18, 24, 30, 36, 48
+* UN negative: 1, 11, 19, 25, 33
+* UC negative: 5, 22, 27, 38, 42
+* NC negative: 2, 13, 32, 41, 46
+* LC negative: 10, 14, 21, 29, 34
+* LN negative: 3, 17, 20, 43, 47
+* LD negative: 16, 26, 31, 40, 45
+* ND negative: 4, 7, 23, 37, 44
+* UD negative: 9, 15, 28, 35, 39
+* Positive: 6, 8, 12, 18, 24, 30, 36, 48
 
 
 ##### US
