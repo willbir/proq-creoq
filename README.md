@@ -41,10 +41,10 @@ To score questionnaires manually rather than using the software provided the fol
 
 Each question can contribute from zero to three points to one of the scores,
 
-Nearly always true = 3 points
-Quite often true = 2 Points
-Sometimes true = 1 Point
-Rarely True = 0 Points
+* Nearly always true = 3 points
+* Quite often true = 2 Points
+* Sometimes true = 1 Point
+* Rarely True = 0 Points
 
 The table below shows the eight negative and eight positive scores.
 Listed next to each score are the question numbers of each question that contributes to that score, there are 10 questions that contribute to each negative score giving a total of between 0 and 30 points for each score, and 2 questions that contribute to each positive score giving a total of between 0 and 6 points each.
