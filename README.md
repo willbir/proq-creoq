@@ -142,6 +142,6 @@ Follow the same procedure as for PROQ2, giving for each questionnaire eight nega
 * Positive: 6, 8, 12, 18, 24, 30, 36, 48
 
 
-##### US
+#### US
 
 For each even numbered question a tick in the true column scores one point For each odd numbered question a tick in the false column scores one point, giving you a total score between 0 and 20.
