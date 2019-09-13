@@ -1,36 +1,54 @@
-## Simple scoring software for PROQ2, PROQ3 and CREOQ3 questionnaires.
+# Simple scoring software for PROQ2, PROQ3 and CREOQ3 questionnaires.
 
 PROQ and CREOQ are measures of relating and interrelating developed by Dr John Birtchnell.
 
-To use the software first download it as a Zip file, extract the contents and then open index.html in any modern web browser. Alternatively you may upload the code to a web server to make the software available to use on-line.
+The software is available to use online here :  https://willbir.github.io/proq-creoq/
 
-### About the measures
+To run the software offline or to make a copy to use on your own website first download it as a Zip file, extract the contents and then open index.html in any modern web browser or upload the code to your web server.
 
-##### The Person's Relating to Others Questionnaire (PROQ)
+## About the measures
+
+#### The Person's Relating to Others Questionnaire (PROQ)
 
 The PROQ (as distinct from the PROQ2) was the earliest relating measure and was described in Birtchnell, Falkowski & Steffert (1992). It was later described in Chapter 9 of both How Humans Relate (Birtchnell, 1993/6) and Relating in Psychotherapy (Birtchnell, 1999/2002). It is a 96-item, self-administered questionnaire, with twelve items contributing to each of the eight scales, which correspond to each octant of the interpersonal octagon. Of the twelve items, two refer to positive relating, and are not normally scored, and ten refer to negative relating. The positive items are included to give respondents something good to say about themselves. There are four options for each item providing a score range of 0-3. Thus for each octant scale, the score range is 0-30, and the total score, combining the scores for each scale has a maximum of 240.
 
-##### The PROQ2
+#### The PROQ2
 
 In 1995, a revised version of the PROQ was produced, called the PROQ2. Its aims were to improve the clarity and factorial structure and to reduce the correlation between scales. The wording of the response options was changed to "Nearly always true" "Quite often true" "Sometimes true" and "Rarely true." Since the introduction of the PROQ2, the original PROQ has dropped out of use. The Birtchnell, Falkowski & Steffert (1992) paper is the only one on the original PROQ; and at present, the only paper on the PROQ2 is the one by Birtchnell & Shine (2000). The 1992 paper contains the items of the PROQ. The items of the PROQ2 have not been published, but copies of the PROQ2 are available from me.
 
 The scales of the PROQ and the PROQ2, named after the octants of the interpersonal octagon, are called upper neutral (UN), upper close (UC), neutral close (NC), lower close (LC), lower neutral (LN), lower distant (LD), neutral distant (ND) and upper distant (UD).
 
-##### The PROQ2a and PROQ3
+#### The PROQ2a and PROQ3
 
 These two measures are attempts to produce a shortened version of the PROQ2. Both are half the length of the PROQ2, i.e. they have 48 items, six for each octant. Five of these six items are negative and one is positive. The PROQ2a is made up entirely of items from the PROQ2, whereas the PROQ3 includes some new items. The PROQ2a items comprise those with the highest loadings on the eight factors that emerged from a principal components analysis of the PROQ2 items and with the lowest commonalities. In the PROQ3, all of the UC items, and some of the LD items have been replaced. The point of this is to render the UC scale more pathological and to reduce the high correlation between the LD scale and the LN scale.
  
 
-##### The Couple's Relating to Each Other Questionnaires (CREOQ)
+#### The Couple's Relating to Each Other Questionnaires (CREOQ)
 
 The interrelating between two people can be measured by a set of questionnaires called the Couple's Relating to Each Other Questionnaires (CREOQ). These were first developed for the measurement of the interrelating between two people in a couple relationship. They can however be modified to measure the interrelating between any two specified people. The CREOQ is made up of a set of four questionnaires called the MS, MP, WS and WP. The MS measures how the man considers he relates to the woman, the MP measures how the man considers the woman relates to him, the WS measures how the woman considers she relates to the man and the WP measures how the woman considers the man relates to her. As with the PROQ, each of the four questionnaires has 96 items, 12 for each of the eight octants. Again, ten of these concern negative relating and two concern positive relating. 
 
-##### The CREOQ3
+#### The CREOQ3
 
 On the basis of an exploratory factor analysis, a shorter version of the CREOQ, with only 48 items compared with the original 96, for each of the four scales, MS, MP, WS and WP, was created. As with the CREOQ, the items for the MS, and the WS and for the MP and the WP, are identical apart from gender words. It is made up of those items with the heaviest loadings on the extracted factors, though excludes items loaded on more than one factor. A number of new items were introduced in order to more clearly differentiate between certain neighbouring scales (e.g. UN and UD). This new version is called the CREOQ3, so as to be comparable with the PROQ3 (though there never was a CREOQ2).
 
 
+## About Relating Theory
 
+Relating is that which one person does to another, or to others, so it is a characteristic of an individual. Relating can apply as much to what happens in an instant as to what happens over the course of a lifetime; so offering someone a seat on a bus is as much relating as is being someone who goes through life needing to help people. A person can relate as much to internalised people and to people in the real world. Relating is so essential a part of our being that we never stop doing it, just as our hearts never stop beating.
+
+### The essentials of relating theory:
+
+* Relating occurs along two intersecting axes, a horizontal one, concerning a need for involvement with others (closeness) versus a need for separation (distance), and a vertical one, concerning a need to relate from above downwards (upperness) versus a need to relate from below upwards (lowerness).
+
+* Each of the four positions (closeness, distance, upperness and lowerness) carries advantages for the individual.
+* No position is either better or worse than any other.
+* Each position is described as a state of relatedness, which carries its own particular satisfaction.
+* Each position is considered to constitute a relating objective, with its own specific drive.
+* The emotions convey to us whether we are on course in attaining and maintaining the states of relatedness.
+* Whilst we are born with innate dispositions to the four states of relatedness, we need in the course of maturation, to develop competence in attaining and maintaining each of them.
+* A person who is competent in all states of relatedness is called versatile.
+* Competent relating is called positive, an relating that falls short of competence is called negative. One of the objectives of psychotherapy is the elimination of negative relating.
+* There are four intermediate states that result from a blending of a horizontal state and a vertical state. These are called upper close, lower close, upper distant and lower distant. The four pure states (which are called neutral) and the four intermediate states are organised into a theoretical structure that is called the interpersonal octagon.
 
 
 
@@ -58,7 +76,7 @@ Listed next to each score are the question numbers of each question that contrib
 * ND negative: 01, 23, 47, 53, 55, 58, 63, 75, 92, 94. positive: 38, 88.
 * UD negative: 14, 26, 32, 43, 54, 59, 67, 81, 90, 93. positive: 04, 76.
 
-##### PROQ2a & PROQ3
+#### PROQ2a & PROQ3
 
 Follow the same procedure as for PROQ2, giving eight negative scores totaling between 0 and 15 points, and eight positive scores totaling between 0 and 3 points.
 
@@ -71,11 +89,11 @@ Follow the same procedure as for PROQ2, giving eight negative scores totaling be
 * ND negative: 01, 08, 12, 31, 47. positive: 46
 * UD negative: 07, 15, 21, 26, 34. positive: 03
 
-##### CREOQ
+#### CREOQ
 
 Follow the same procedure as for PROQ2, giving for each questionnaire eight negative scores totalling between 0 and 30 points, and eight positive scores totalling between 0 and 6 points.
 
-##### MS/WS
+#### MS/WS
 
 * UN negative: 05, 12, 15, 40, 45, 49, 53, 56, 69, 88. positive: 35, 71.
 * UC negative: 04, 10, 31, 36, 42, 61, 75, 81, 89, 92. positive: 78, 84.
@@ -86,7 +104,7 @@ Follow the same procedure as for PROQ2, giving for each questionnaire eight nega
 * ND negative: 08, 11, 16, 24, 30, 43, 57, 62, 70, 73. positive: 14, 27.
 * UD negative: 03, 18, 26, 41, 58, 63, 77, 80, 82, 91. positive: 86, 95.
 
-##### MP/WP
+#### MP/WP
 
 * UN negative: 09, 19, 30, 33, 43, 52, 63, 69, 73, 77. positive: 79, 84.
 * UC negative: 03, 07, 14, 22, 26, 60, 80, 85, 90, 92. positive: 06, 15.
@@ -97,9 +115,9 @@ Follow the same procedure as for PROQ2, giving for each questionnaire eight nega
 * ND negative: 01, 08, 23, 32, 42, 51, 68, 76, 86, 87. positive: 55, 62.
 * UD negative: 04, 12, 28, 38, 48, 54, 57, 65, 72, 91. positive: 21, 70.
 
-##### CREOQ3
+#### CREOQ3
 
-##### MS/WS
+#### MS/WS
 
 * UN negative: 5, 10, 23, 32, 37
 * UC negative: 1, 16, 21, 27, 41
@@ -111,7 +129,7 @@ Follow the same procedure as for PROQ2, giving for each questionnaire eight nega
 * UD negative: 15, 26, 30, 35, 39
 * Positive: 6, 9, 12, 18, 24, 36, 42, 48
 
-##### MP/WP
+#### MP/WP
 
 * UN negative: 1, 11, 19, 25, 33
 * UC negative: 5, 22, 27, 38, 42
