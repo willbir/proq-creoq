@@ -34,9 +34,9 @@ On the basis of an exploratory factor analysis, a shorter version of the CREOQ, 
 
 ## About Relating Theory
 
-Relating is that which one person does to another, or to others, so it is a characteristic of an individual. Relating can apply as much to what happens in an instant as to what happens over the course of a lifetime; so offering someone a seat on a bus is as much relating as is being someone who goes through life needing to help people. A person can relate as much to internalised people and to people in the real world. Relating is so essential a part of our being that we never stop doing it, just as our hearts never stop beating.
+Relating is that which one person does to another, or to others, so it is a characteristic of an individual. Relating can apply as much to what happens in an instant as to what happens over the course of a lifetime. A person can relate as much to internalised people and to people in the real world. Relating is so essential a part of our being that we never stop doing it.
 
-### The essentials of relating theory:
+## The essentials of relating theory:
 
 * Relating occurs along two intersecting axes, a horizontal one, concerning a need for involvement with others (closeness) versus a need for separation (distance), and a vertical one, concerning a need to relate from above downwards (upperness) versus a need to relate from below upwards (lowerness).
 
